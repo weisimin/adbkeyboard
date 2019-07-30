@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="trunk" />
+      <module name="spellbook" />
+      <module name="keyboardservice" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c21841b7-5ee4-4997-8e29-558e39527e4e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="trunk" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboardservice/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/WechatHook.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/SendMsgHooker.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getnetsce</find>
+      <find>wechatglobal</find>
+      <find>ChattingFooterEventImpl</find>
+      <find>wxclasses</find>
+      <find>wxClasses</find>
+      <find>wxUnitTestMode</find>
+      <find>rawQueryWithFactory</find>
+      <find>onMessageStorageInserted</find>
+      <find>HookerProvider</find>
+      <find>Ev</find>
+      <find>rawquerywithfa</find>
+      <find>getmsginfo</find>
+      <find>INVALID</find>
+      <find>MsgInfoStorage_insert</find>
+      <find>rawqu</find>
+      <find>rawq</find>
+      <find>findAndHookMethod</find>
+      <find>Database</find>
+      <find>onDatabaseQueried</find>
+      <find>wxLazy</find>
+      <find>onDatabaseOpened</find>
+      <find>SQLiteCipherSpec</find>
+      <find>SQLiteCursorFactory</find>
+      <find>CancellationSignal</find>
+      <find>SQLiteDatabase</find>
+      <find>WECHAT_PACKAGE_SQLITE</find>
+      <find>findClassIfExists</find>
+      <find>handleLoadPackage</find>
+      <find>loader</find>
+      <find>NetSceneSendMsg</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/UtilFileIO.java" />
+        <option value="$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/util/XposedUtil.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/RobootHook.java" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/RobootHook.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/WeiXinRobootHook.kt" />
+        <option value="$PROJECT_DIR$/wechatbotxposed/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/wechatbotxposed/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$PROJECT_DIR$/project.properties" />
+        <option value="$PROJECT_DIR$/wechatbotxposed/build.gradle" />
+        <option value="$PROJECT_DIR$/wechatbotxposed/src/main/java/com/blanke/wechatbotxposed/WechatHook.kt" />
+        <option value="$PROJECT_DIR$/wechatbotxposed/src/main/java/com/blanke/wechatbotxposed/hook/WechatMessageHook.kt" />
+        <option value="$PROJECT_DIR$/wechatbotxposed/src/main/java/com/blanke/wechatbotxposed/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/assets/xposed_init" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/Objects.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/Methods.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/LogUtil.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/spellbook/build.gradle" />
+        <option value="$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/SpellBook.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/WeCharDatabaseHook.kt" />
+        <option value="$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/interfaces/IDatabaseHook.kt" />
+        <option value="$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/hookers/Database.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/SendMsgHooker.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/MYTESTHOOK.kt" />
+        <option value="$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/storage/Methods.kt" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/wcdb/database/Classes.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/typ_pathanddb.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/interfaces/IDatabaseHook.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/WechatDatabaseHook.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/hookers/Database.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/AdbIME.java" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/Classes.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/WechatMessageHook.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/SendMsgHooker.kt" />
+        <option value="$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/WechatHook.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/keyboardservice/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="177" />
+    <option name="y" value="300" />
+    <option name="width" value="1547" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboardservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trunk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="keyboardservice" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="spellbook" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="E:/AndroidSDK" />
+    <property name="device.picker.selection" value="emulator-5554" />
+    <property name="last_opened_file_path" value="E:/wechatbotxposed/trunk" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.0.1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.android.adbkeyboard" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.wechatbotxposed">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="keyboardservice" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="keyboardservice" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wechatbotxposed" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="wechatbotxposed" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.keyboardservice" />
+      <item itemvalue="Android App.wechatbotxposed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c21841b7-5ee4-4997-8e29-558e39527e4e" name="Default Changelist" comment="" />
+      <created>1554137184919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554137184919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="177" y="300" width="1547" height="680" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.4001345" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25166667" />
+      <window_info id="Build Variants" order="3" sideWeight="0.48963732" side_tool="true" weight="0.27993527" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3268206" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.4632196" side_tool="true" weight="0.20801733" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49838188" weight="0.3285968" />
+      <window_info anchor="bottom" id="Logcat" order="5" sideWeight="0.49919093" weight="0.32664233" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.49733475" weight="0.3268206" />
+      <window_info active="true" anchor="bottom" x="28" y="171" width="1224" height="337" id="Build" order="9" sideWeight="0.53678036" visible="true" weight="0.270073" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32928804" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32928804" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/WechatDatabaseHook.kt</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/interfaces/IDatabaseHook.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/storage/Classes.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gh0u1l5/wechat-spellbook/0.0.3/6e23fba510134076773607bf3848ac686c10489b/wechat-spellbook-0.0.3-sources.jar!/com/gh0u1l5/wechatmagician/spellbook/SpellBook.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/hookers/FileSystem.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/interfaces/IAdapterHook.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/mirror/MirrorClasses.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/Methods.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/WechatGlobal.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/hookers/Storage.kt" />
+    <entry file="file://$PROJECT_DIR$/spellbook/src/main/kotlin/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/storage/Methods.kt" />
+    <entry file="file://$PROJECT_DIR$/trunk.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/keyboardservice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/WechatStatus.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/C.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/Objects.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/Methods.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/base/HookerProvider.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/base/Operation.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/base/Version.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/base/WaitChannel.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/wcdb/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/typ_pathanddb.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/base/Hooker.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/mm/ui/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/wcdb/database/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/com/tencent/wcdb/Package.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/hookers/Storage.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/interfaces/IDatabaseHook.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/util/XposedUtil.kt" />
+    <entry file="jar://E:/AndroidSDK/platforms/android-27/android.jar!/java/lang/Class.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/util/ReflectionUtil.kt" />
+    <entry file="jar://E:/AndroidSDK/platforms/android-27/android.jar!/java/lang/ClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/mirror/android/support/v4/app/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/WechatGlobal.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/SpellBook.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/MYTESTHOOK.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/SendMsgHooker.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/LogUtil.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/WechatDatabaseHook.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/gh0u1l5/wechatmagician/spellbook/hookers/Database.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/Classes.kt" />
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/hook/WechatMessageHook.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="e#38#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/assets/xposed_init">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/AdbIME.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="209" column="26" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/SendMsgHooker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardservice/src/main/java/com/android/adbkeyboard/WechatHook.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

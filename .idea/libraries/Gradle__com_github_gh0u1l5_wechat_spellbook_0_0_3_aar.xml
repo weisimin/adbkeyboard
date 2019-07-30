@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.gh0u1l5:wechat-spellbook:0.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wechat-spellbook-0.0.3.aar/a44dfd0ca5aefdf1430a07a402af6ca1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wechat-spellbook-0.0.3.aar/a44dfd0ca5aefdf1430a07a402af6ca1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gh0u1l5/wechat-spellbook/0.0.3/6e23fba510134076773607bf3848ac686c10489b/wechat-spellbook-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

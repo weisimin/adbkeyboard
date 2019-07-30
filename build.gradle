@@ -1,0 +1,23 @@
+buildscript {
+    ext {
+        dokka_version = '0.9.17'
+        kotlin_version = '1.3.10'
+    }
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+
+
+        classpath 'com.android.tools.build:gradle:3.0.1'
+        //classpath 'com.android.tools.build:gradle:3.3.2'
+        classpath "org.jetbrains.dokka:dokka-android-gradle-plugin:$dokka_version"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        //compileOnly 'de.robv.android.xposed:api:53'
+        //compileOnly 'de.robv.android.xposed:api:53:sources'
+        //implementation project(':spellbook')
+
+    }
+}
+
